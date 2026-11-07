@@ -1,20 +1,4 @@
-﻿************* Module radio_schedule
-radio_schedule.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-radio_schedule.py:11:0: C0103: Constant name "booked_minutes" doesn't conform to UPPER_CASE naming style (invalid-name)
-radio_schedule.py:14:0: C0116: Missing function or method docstring (missing-function-docstring)
-radio_schedule.py:14:0: C0103: Function name "addSlot" doesn't conform to snake_case naming style (invalid-name)
-radio_schedule.py:15:4: W0603: Using the global statement (global-statement)
-radio_schedule.py:24:0: C0116: Missing function or method docstring (missing-function-docstring)
-radio_schedule.py:24:0: C0103: Function name "slotLabel" doesn't conform to snake_case naming style (invalid-name)
-radio_schedule.py:25:11: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
-radio_schedule.py:28:0: C0116: Missing function or method docstring (missing-function-docstring)
-radio_schedule.py:28:0: C0103: Function name "overlapFree" doesn't conform to snake_case naming style (invalid-name)
-radio_schedule.py:32:0: C0116: Missing function or method docstring (missing-function-docstring)
-radio_schedule.py:32:0: C0103: Function name "morningShows" doesn't conform to snake_case naming style (invalid-name)
-radio_schedule.py:39:0: C0116: Missing function or method docstring (missing-function-docstring)
-radio_schedule.py:39:0: C0103: Function name "removeSlot" doesn't conform to snake_case naming style (invalid-name)
-radio_schedule.py:43:0: C0116: Missing function or method docstring (missing-function-docstring)
-
-------------------------------------------------------------------
-Your code has been rated at 4.64/10 (previous run: 2.41/10, +2.23)
+﻿
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 4.64/10, +5.36)
 
